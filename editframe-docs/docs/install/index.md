@@ -9,9 +9,10 @@ has_children: false
 
 `editframe-js` is the offical Node client for interacting with the Editframe API.
 
-This library currently only works in Node environments and does not work in a browser. Use the library only in server environments to protect your API key.
+The `editframe-js` library only works in Node environments and does not work in a browser. Use this library only in server environments to protect your API key. 
+{: .warning }
 
-Set your npm access token in your shell or `@editframe/shared-types` won't install:
+Set your npm access token in your shell or `@editframe/shared-types` won't install.
 
    ```bash
    export NPM_TOKEN=your-token-goes-here

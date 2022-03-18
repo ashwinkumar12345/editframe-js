@@ -34,7 +34,7 @@ logo: "/assets/images/editframe_logo.png"
 aux_links:
   "Editframe":
     - "https://editframe.github.io/editframe/"
-color_scheme: odfe
+color_scheme: editframe
 
 # Enable or disable the site search
 # Supports true (default) or false
